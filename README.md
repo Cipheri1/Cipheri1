@@ -14,9 +14,9 @@
 ---
 **`Estudante de Tecnologia e Desenvolvimento de Software`**
 
-Me chamo Matheus Paim Calherios, tenho 22 anos e sou natural de Mata de São João, Bahia. Atualmente, curso Licenciatura em Computação na UNEB e Análise e Desenvolvimento de Sistemas no Senac.  
+Matheus Paim Calherios, tem 22 anos. Atualmente, cursa Licenciatura em Computação na UNEB e Análise e Desenvolvimento de Sistemas no Senac.  
 
-Tenho interesse em desenvolvimento de software, lógica de programação e boas práticas como versionamento com Git e organização de código. Busco evoluir constantemente como desenvolvedor, aplicando na prática os conhecimentos adquiridos em projetos acadêmicos e pessoais.
+Tem interesse em desenvolvimento de software, lógica de programação e boas práticas como versionamento com Git e organização de código. Busca evoluir constantemente como desenvolvedor, aplicando na prática os conhecimentos adquiridos em projetos acadêmicos e pessoais.
 
 ---
 ### 🤖 Linguagens e Tecnologias
